@@ -10,3 +10,4 @@ if (locationIndex !== null)
     // If a location name was specified, use it for header bar title.
     document.getElementById("headerBarTitle").textContent = locationNames[locationIndex];
 }
+ 
